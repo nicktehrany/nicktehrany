@@ -13,4 +13,4 @@ This is where I host pretty much all of my open source projects and whatever els
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nicktehrany&repo=textemp&theme=dark)](https://github.com/nicktehrany/textemp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nicktehrany&repo=pmem_evaluation_traces&theme=dark&)](https://github.com/nicktehrany/pmem_evaluation_traces)
 
-[![Nick's github stats](https://github-readme-stats.vercel.app/api?username=nicktehrany&count_private=true&theme=dark)]
+![Nick's github stats](https://github-readme-stats.vercel.app/api?username=nicktehrany&count_private=true&theme=dark)
