@@ -3,7 +3,7 @@
 This is where I host pretty much all of my open source projects and whatever else I'm currently up to.
 
 - 🔭 I’m currently a MSc Computer Science Student at the TUDelft
-- 🌱 I’m currently focusing on distributed systems, storage tech, and operating systems
+- 🌱 My areas of interest are distributed systems, storage tech, operating systems, and everything low level
 - ⚡ Check out my **[website](https://nicktehrany.github.io/)** to see what I'm up to
 - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/nicktehrany)
 
