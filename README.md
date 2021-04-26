@@ -14,5 +14,4 @@ This is where I host pretty much all of my open source projects and whatever els
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nicktehrany&repo=pmem_evaluation_traces&theme=merko&)](https://github.com/nicktehrany/pmem_evaluation_traces)
 
 ![Nick's github stats](https://github-readme-stats.vercel.app/api?username=nicktehrany&count_private=true&theme=merko&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicktehrany&layout=compact&hide=html,jupyter%20notebook&langs_count=10&theme=merko)
